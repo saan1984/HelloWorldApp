@@ -1,0 +1,13 @@
+{
+  "name": "HelloWorldApp",
+  "version": "0.0.1",
+  "description": "Getting Started With Gulp",
+  "scripts": {
+    "startGulp":"gulp"
+  },
+  "author": "Sandeep",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
